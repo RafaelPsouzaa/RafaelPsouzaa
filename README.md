@@ -17,5 +17,5 @@
   
   ##
     
-    ![gojo-satoru-jjk](https://user-images.githubusercontent.com/55769823/191584262-46d143c5-b266-4d7a-8e37-0d3f1580acd3.gif)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
